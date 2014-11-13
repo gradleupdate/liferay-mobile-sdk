@@ -1,4 +1,4 @@
-include 'android', 'builder', 'ios'
+include 'android', 'builder', 'ios', 'windows'
 
 def modules = files { file('modules').listFiles() }
 
